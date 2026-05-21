@@ -1,7 +1,6 @@
-# Submission 1: Sentiment Classification - Game Reviews / Steam Reviews
-Nama: Izzan Alfahdil
+# Submission: Sentiment Classification - Game Reviews / Steam Reviews
 
-Username dicoding: izzan_virm
+## [Certificate](https://www.dicoding.com/certificates/GRX5W0QMVZ0M)
 
 | | Deskripsi |
 | ----------- | ----------- |
